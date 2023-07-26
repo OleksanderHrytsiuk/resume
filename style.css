@@ -35,6 +35,23 @@ body {
 
 .head {
     display: flex;
+    margin-bottom: 20px;
+}
+
+.head div{
+    margin: 20px;
+}
+
+.workPlace {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.workPlaceType{
+    color: darkgray;
+}
+.workPlacePeriod{
+    color: darkgray;
 }
 
 @media (max-width: 450px) {
